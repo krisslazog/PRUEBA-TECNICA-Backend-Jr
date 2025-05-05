@@ -13,7 +13,7 @@ Este es un proyecto Laravel preconfigurado para ejecutarse fácilmente en conten
 
 ```bash
 git clone https://github.com/krisslazog/PRUEBA-TECNICA-Backend-Jr.git
-cd laravel_app/
+cd PRUEBA-TECNICA-Backend-Jr/
 ```
 
 2. Crear y levantar los contenedores:
