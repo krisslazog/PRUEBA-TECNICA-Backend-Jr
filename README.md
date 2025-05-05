@@ -12,7 +12,7 @@ Este es un proyecto Laravel preconfigurado para ejecutarse fácilmente en conten
 1. Clonar el repositorio y acceder al directorio del proyecto:
 
 ```bash
-git clone https://github.com/tu_usuario/laravel_app.git
+git clone https://github.com/krisslazog/PRUEBA-TECNICA-Backend-Jr.git
 cd laravel_app/
 ```
 
